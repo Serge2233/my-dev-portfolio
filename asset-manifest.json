@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Serge2233/my-dev-portfolio/static/css/main.aaa03483.css",
+    "main.js": "/Serge2233/my-dev-portfolio/static/js/main.7d3ccb7a.js",
+    "index.html": "/Serge2233/my-dev-portfolio/index.html",
+    "main.aaa03483.css.map": "/Serge2233/my-dev-portfolio/static/css/main.aaa03483.css.map",
+    "main.7d3ccb7a.js.map": "/Serge2233/my-dev-portfolio/static/js/main.7d3ccb7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaa03483.css",
+    "static/js/main.7d3ccb7a.js"
+  ]
+}
