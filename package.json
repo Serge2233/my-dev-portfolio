@@ -1,6 +1,6 @@
 {
   "name": "my-dev-portfolio",
-  "homepage": "https://github.com/Serge2233/my-dev-portfolio",
+  "homepage": "https://github.com/Serge2233",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b main -d build"
   },
   "eslintConfig": {
     "extends": [
