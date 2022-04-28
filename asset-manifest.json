@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Serge2233/my-dev-portfolio/static/css/main.ba16511c.css",
-    "main.js": "/Serge2233/my-dev-portfolio/static/js/main.fe1bf61d.js",
-    "static/media/cover-image.jpg": "/Serge2233/my-dev-portfolio/static/media/cover-image.dec0052c9295dbc9aa13.jpg",
-    "static/media/five-day-forecast.jpg": "/Serge2233/my-dev-portfolio/static/media/five-day-forecast.d73c60050a51dae890cd.jpg",
-    "static/media/console-this.jpg": "/Serge2233/my-dev-portfolio/static/media/console-this.f4483705c63a1e453b3d.jpg",
-    "static/media/tech-blog.jpg": "/Serge2233/my-dev-portfolio/static/media/tech-blog.edc3a09543a8c803f32e.jpg",
-    "static/media/budget-tracker.jpg": "/Serge2233/my-dev-portfolio/static/media/budget-tracker.9f93ac247bb09a749ca4.jpg",
-    "static/media/time-quiz.jpg": "/Serge2233/my-dev-portfolio/static/media/time-quiz.0b491db4ed9113c88248.jpg",
-    "index.html": "/Serge2233/my-dev-portfolio/index.html",
-    "main.ba16511c.css.map": "/Serge2233/my-dev-portfolio/static/css/main.ba16511c.css.map",
-    "main.fe1bf61d.js.map": "/Serge2233/my-dev-portfolio/static/js/main.fe1bf61d.js.map"
+    "main.css": "/my-dev-portfolio/static/css/main.ba16511c.css",
+    "main.js": "/my-dev-portfolio/static/js/main.cae4199a.js",
+    "static/media/cover-image.jpg": "/my-dev-portfolio/static/media/cover-image.dec0052c9295dbc9aa13.jpg",
+    "static/media/five-day-forecast.jpg": "/my-dev-portfolio/static/media/five-day-forecast.d73c60050a51dae890cd.jpg",
+    "static/media/console-this.jpg": "/my-dev-portfolio/static/media/console-this.f4483705c63a1e453b3d.jpg",
+    "static/media/tech-blog.jpg": "/my-dev-portfolio/static/media/tech-blog.edc3a09543a8c803f32e.jpg",
+    "static/media/budget-tracker.jpg": "/my-dev-portfolio/static/media/budget-tracker.9f93ac247bb09a749ca4.jpg",
+    "static/media/time-quiz.jpg": "/my-dev-portfolio/static/media/time-quiz.0b491db4ed9113c88248.jpg",
+    "index.html": "/my-dev-portfolio/index.html",
+    "main.ba16511c.css.map": "/my-dev-portfolio/static/css/main.ba16511c.css.map",
+    "main.cae4199a.js.map": "/my-dev-portfolio/static/js/main.cae4199a.js.map"
   },
   "entrypoints": [
     "static/css/main.ba16511c.css",
-    "static/js/main.fe1bf61d.js"
+    "static/js/main.cae4199a.js"
   ]
 }
